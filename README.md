@@ -33,12 +33,12 @@ You can explore all repositories via our GitHub organization: [ZenUI Labs on Git
 
 ### 🌐 Connect with Us
 
-Website: https://zenui.net
-GitHub: https://github.com/zenui-labs
-LinkedIn: https://www.linkedin.com/company/zenui-labs/
-Twitter/X: https://x.com/zenuilabs
+Website: https://zenui.net </br>
+GitHub: https://github.com/zenui-labs </br>
+LinkedIn: https://www.linkedin.com/company/zenui-labs/ </br>
+Twitter/X: https://x.com/zenuilabs </br>
 Email: zenuilibrary@gmail.com
 
 ### Support our work
 
-☕ ko-fi.com/zenuilabs
+☕ https://ko-fi.com/zenuilabs
