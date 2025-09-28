@@ -1,8 +1,4 @@
-# ZenUI Labs
-
-> Building the handy UI libraries, dev tools & front-end solutions
-
-## 🚀 What is ZenUI Labs?
+# 🚀 What is ZenUI Labs?
 
 ZenUI Labs is the open-source ecosystem unifying UI libraries, developer tools, and innovative front-end solutions under one roof. 
 Our vision is to empower developers and designers with high-quality, composable, and easy-to-integrate UI resources, helping teams ship faster and maintain design consistency.
@@ -34,3 +30,15 @@ Some flagship repos under the ZenUI Labs umbrella:
 | `zenui-color-picker` | Advanced, customizable color picker for React. |
 
 You can explore all repositories via our GitHub organization: [ZenUI Labs on GitHub](https://github.com/orgs/zenui-labs/repositories)
+
+### 🌐 Connect with Us
+
+Website: https://zenui.net
+GitHub: https://github.com/zenui-labs
+LinkedIn: https://www.linkedin.com/company/zenui-labs/
+Twitter/X: https://x.com/zenuilabs
+Email: zenuilibrary@gmail.com
+
+### Support our work
+
+☕ ko-fi.com/zenuilabs
