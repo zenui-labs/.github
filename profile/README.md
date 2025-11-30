@@ -25,6 +25,7 @@ Some flagship repos under the ZenUI Labs umbrella:
 | Repository | Description |
 |-------------|-------------|
 | `zenui-library-react` | Core React + Tailwind UI component library. |
+| `zenui-library-vue` | Core vue + Tailwind UI component library. |
 | `readme-studio` | An AI tool to generate clean, structured READMEs. |
 | `zenui-image-react` | Responsive image component with lazy loading & skeleton support. |
 | `zenui-color-picker` | Advanced, customizable color picker for React. |
